@@ -1,0 +1,12 @@
+.titlebar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: center;
+        background-color: #a03037;
+        height: 75px;   
+}
+img{
+        height:50px;
+        margin-left: 45px;
+}
